@@ -1,2 +1,2 @@
 A simple tutorial on how to get started with visualizing data in 
-Angular js using Google Chart API. Part 2
+Angular js using Google Chart API. Part 3
